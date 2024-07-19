@@ -1,0 +1,11 @@
+# Node.js / React Native
+node_modules/
+
+# Go
+bin/
+
+# VS Code
+.vscode/
+
+# AWS
+aws/
